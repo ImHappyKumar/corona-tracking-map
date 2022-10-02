@@ -1,0 +1,22 @@
+/* Navigation Bar */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li{
+    margin: 0px 5px;
+}
+
+#navbar ul li a{
+    padding: 2px;
+    font-size: 15px;
+}
+
+#logo img{
+    height: 50px;
+}
+
+#map {
+    width: 100vw;
+    height: 100vh;
+}
